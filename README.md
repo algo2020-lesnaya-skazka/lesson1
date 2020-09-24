@@ -22,3 +22,6 @@ https://stepik.org
 https://stepik.org/lesson/253088/step/3?unit=234410
 https://stepik.org/lesson/253088/step/11?unit=234410
 https://stepik.org/lesson/253088/step/16?unit=234410
+
+Класс для курса
+https://stepik.org/join-class/1fcec521d4fe26e5ada9fb641cb64cdb6e4a1597
