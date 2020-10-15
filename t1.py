@@ -1,0 +1,10 @@
+print("введите 1-ое число")
+a = int(input())
+print("введите 2-ое число")
+b = int(input())
+print("введите 3-ие число")
+c = int(input())
+print("введите 4-ое число")
+r = int(input())
+d = ((a - b) * c )/ r
+print(d)
