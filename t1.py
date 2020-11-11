@@ -1,0 +1,11 @@
+print("Введите первое число")
+a = int(input())
+print("Введите второе число")
+r = int(input())
+print("Введите третие число")
+d = int(input())
+print("Введите четвёртое число")
+s = int(input())
+c =(a-r)*d+s
+print("Итог равен")
+print (c)
