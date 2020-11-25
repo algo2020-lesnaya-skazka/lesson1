@@ -1,0 +1,6 @@
+a = input()
+b = input()
+j = input()
+d = input()
+e = ((int(a) - int(b)) * int(j) + int(d)
+print(e)
