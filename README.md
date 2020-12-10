@@ -25,3 +25,6 @@ https://stepik.org/lesson/253088/step/16?unit=234410
 
 Класс для курса
 https://stepik.org/join-class/1fcec521d4fe26e5ada9fb641cb64cdb6e4a1597
+
+Регистрация в менеджере задач (почта яндекса)
+trello.com/ru
