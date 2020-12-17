@@ -1,0 +1,6 @@
+a = input()
+b = input()
+c = input()
+print( "Имя:" + a)
+print( "Фамилия:" + b)
+print( "Телефон:" + c)
