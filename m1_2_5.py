@@ -1,0 +1,21 @@
+a = input() 
+b = input()
+c = input()  
+d = input()    
+e = input()
+f = input()
+print("Имя:", end="")
+print(a, end="")
+print(", Фамилия:", end="")
+print(c, end="")
+print(", Телефон:", end="")
+print(e)
+print("Имя:",end="")
+print(b, end="")
+print(", Фамилия:", end="")
+print(d, end="")
+print(", Телефон:", end="")
+print(f, end="")
+
+
+
